@@ -1,0 +1,4 @@
+name: SimpleFishing
+version: '${project.version}'
+main: com.github.akagiant.simplefishing.SimpleFishing
+api-version: '1.20'
